@@ -1,0 +1,15 @@
+body{
+    margin: auto 0;
+    background: darkgoldenrod;
+}
+h1{
+    font-size: 30px;
+    color: rgb(53, 1, 1);
+    border: double 5px green;
+    padding: 29px;
+}
+
+p{
+    font-size: 17px;
+font-weight: bold;
+}
